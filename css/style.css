@@ -1,0 +1,28 @@
+body{
+	background-color:  #E6E6E6;
+}
+.mainblock{
+	margin: auto;
+	width: 35%;
+	background-color: white;
+	box-shadow: 0 0 1px rgba(0,0,0,0.1);
+}
+.photo{
+		text-align: center;
+		margin: auto;
+		padding-top: 2%;
+    	}
+.underline{
+	border-bottom: 1px solid black;
+	margin: auto;
+	margin-right: 10%;
+	margin-left: 10%;
+	}    	
+.block{
+	font-size: 12px;
+	margin: auto;
+	padding-left: 10%;
+	padding-right: 10%;
+		}
+
+img {height:40%; width: 40%}
